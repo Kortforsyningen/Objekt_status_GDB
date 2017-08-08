@@ -1,0 +1,6 @@
+Settings file for QGIS pluginn 
+DB_n: "GEODANMARK_NOHIST_L1"
+DB_h: gst-orarac.prod.sitad.dk
+DB_po: 1521
+DB_u: kf_read
+DB_pa: kf2008read
